@@ -1,4 +1,3 @@
-[![AZZA's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 <h1 align="center">Hi 👋, I'm AZZA Mohamed</h1>
 <h3 align="center">A passionate Python developer from Morocco</h3>
 
