@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [AirBnB_clone](https://github.com/medazza/AirBnB_clone)
 
-- 🌱 I’m currently learning **ALX**
+- 🌱 I’m currently learning at **ALX**
 
 - 👨‍💻 All of my projects are available at [https://azzamed.pythonanywhere.com/](https://azzamed.pythonanywhere.com/)
 
