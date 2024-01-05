@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/midazza27" target="blank"><img src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge" alt="midazza27" /></a> </p>
 
-- 🔭 I’m currently working on [AirBnB_clone](https://github.com/medazza/AirBnB_clone)
+- 🔭 I’m currently working on [AirBnB_clone](https://github.com/medazza/binary_trees)
 
 - 🌱 I’m currently learning at **ALX**
 
