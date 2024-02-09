@@ -3,9 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medazza&label=Profile%20views&color=0e75b6&style=flat" alt="medazza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medazza&label=Profile%20views&color=0e75b6&style=flat" alt="medazza" /></p>
 
-<p align="left"> <a href="https://twitter.com/midazza27" target="blank"><img src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge" alt="midazza27" /></a> </p>
+<p><a href="https://www.github.com/medazza" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/medazza?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/midazza27" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a></p>
+
 
 - 🔭 I’m currently working on [AirBnB_clone](https://github.com/medazza/binary_trees)
 
@@ -18,9 +20,7 @@
 - 📫 How to reach me **midazza27@gmail.com**
 
 <a href="https://www.github.com/medazza" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/medazza?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/midazza27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+src="https://img.shields.io/github/followers/medazza?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/midazza27" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
