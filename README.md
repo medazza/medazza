@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Mohamed AZZA </h1>
-====================================================================================================================================
+
 <h3 align="center">A passionate Python developer from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
