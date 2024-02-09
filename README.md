@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm AZZA Mohamed</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed AZZA</h1>
+====================================================================================================================================
 <h3 align="center">A passionate Python developer from Morocco</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
