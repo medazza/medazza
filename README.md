@@ -9,11 +9,9 @@
 <p><a href="https://www.github.com/medazza" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/medazza?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/midazza27" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/midazza27?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" /></a></p>
 
-- 🔭 I’m currently working on [AirBnB_clone](https://github.com/medazza/binary_trees)
+- 🔭 I’m currently working on [alx-final-project](https://github.com/medazza/alx-final-project)
 
 - 🌱 I’m currently learning at **ALX**
-
-- 👨‍💻 All of my projects are available at [https://azzamed.pythonanywhere.com/](https://azzamed.pythonanywhere.com/)
 
 - 💬 Ask me about **Django**
 
